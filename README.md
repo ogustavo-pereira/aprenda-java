@@ -1,5 +1,5 @@
 <p align="center">
-	<img src="https://raw.githubusercontent.com/learnbr/template/master/logo.jpeg" alt="Aprenda Ruby on Rails" style="max-width:100%;">
+	<img src="https://raw.githubusercontent.com/learnbr/java/master/logo.jpg" alt="Aprenda Ruby on Rails" style="max-width:100%;">
 </p>
 
 <h1 align="center">Aprenda Java</h1>
