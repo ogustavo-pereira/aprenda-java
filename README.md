@@ -43,7 +43,7 @@ Curso | Escola/Site | Nível | Assunto | Pago/Gratuito
 
 Título | Assunto | Formato | Pago/Gratuito | Idioma
 :-- | :--: | :--: | :--: | :--:
-Projeto de Algoritimos com Implementações em Java e C++ | Impresso | Programação orientada a Objeto | :moneybag: | Português
+Projeto de Algoritimos com Implementações em Java e C++ | Programação orientada a Objeto | Impresso | :moneybag: | Português
 
 [Ir para o índice](#Índice)
 
