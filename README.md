@@ -30,15 +30,21 @@
 
 Curso | Escola/Site | Nível | Assunto | Pago/Gratuito
 :-- | :-- | :--: | :--: | :--:
-
+[Java Básico](https://loiane.training/curso/java-basico) | Loiane.training | :green_heart: | Começando com Java | :free:
+[Java Intermediário](https://loiane.training/curso/java-intermediario) | Loiane.training | :large_orange_diamond: | Curso Intermediário | :free:
+[Java Básico](https://www.cursoemvideo.com/course/curso-java-iniciante/) | Curso em Vídeo | :green_heart: | Como criar aplicativos que utilizem Java para rodar em Desktop | :free:
+[Curso de POO Java](https://www.cursoemvideo.com/course/curso-de-poo-java/) | Curso em Vídeo | :large_orange_diamond: | Programação Orientada a Objetos | :free:
+[Formação em Java](https://www.alura.com.br/formacao-java) | Alura | :large_orange_diamond: | Programe sistemas Web com Spring MVC, JPA e Java
+| :moneybag:
+[Primeiros passos com Java](https://www.devmedia.com.br/primeiros-passos-java/) | Devmedia | :green_heart: | Primeiros passos no Java.Spring MVC e JPA | :moneybag:
 
 [Ir para o índice](#Índice)
 
 ## :book: Livros
 
-Título | Assunto | Formato | Preço | Idioma
+Título | Assunto | Formato | Pago/Gratuito | Idioma
 :-- | :--: | :--: | :--: | :--:
-
+Projeto de Algoritimos com Implementações em Java e C++ | Programação orientada a Objeto | :moneybag: | Português
 
 [Ir para o índice](#Índice)
 
