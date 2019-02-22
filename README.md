@@ -44,6 +44,8 @@ Curso | Escola/Site | Nível | Assunto | Pago/Gratuito
 Título | Assunto | Formato | Pago/Gratuito | Idioma
 :-- | :--: | :--: | :--: | :--:
 Projeto de Algoritimos com Implementações em Java e C++ | Programação orientada a Objeto | Impresso | :moneybag: | Português
+Explorando APIs e bibliotecas Java | JDBC, IO, Threads, JavaFX e mais | E-book/Impresso | :moneybag: | Português
+Desbravando Java e Orientação a Objetos | Um guia para o iniciante da linguagem | Ebook/Impresso | :moneybag: | Português
 
 [Ir para o índice](#Índice)
 
