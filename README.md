@@ -36,6 +36,7 @@ Curso | Escola/Site | Nível | Assunto | Pago/Gratuito
 [Curso de POO Java](https://www.cursoemvideo.com/course/curso-de-poo-java/) | Curso em Vídeo | :large_orange_diamond: | Programação Orientada a Objetos | :free:
 [Formação em Java](https://www.alura.com.br/formacao-java) | Alura | :large_orange_diamond: | Programe sistemas Web com Spring MVC, JPA e Java | :moneybag:
 [Primeiros passos com Java](https://www.devmedia.com.br/primeiros-passos-java/) | Devmedia | :green_heart: | Primeiros passos no Java.Spring MVC e JPA | :moneybag:
+[Curso de Java Algoritmos](http://www.cursou.com.br/informatica/java-algoritmos/) | Cursou | :green_heart: | Algoritimos em Java | :free:
 
 [Ir para o índice](#Índice)
 
@@ -43,9 +44,11 @@ Curso | Escola/Site | Nível | Assunto | Pago/Gratuito
 
 Título | Assunto | Formato | Pago/Gratuito | Idioma
 :-- | :--: | :--: | :--: | :--:
+[Apostila do Curso FJ-11 Java e Orientação a Objetos](https://www.caelum.com.br/apostila-java-orientacao-objetos/) | Programação orientada a Objeto | Web | :free: | Português
 Projeto de Algoritimos com Implementações em Java e C++ | Programação orientada a Objeto | Impresso | :moneybag: | Português
 Explorando APIs e bibliotecas Java | JDBC, IO, Threads, JavaFX e mais | Ebook/Impresso | :moneybag: | Português
 Desbravando Java e Orientação a Objetos | Um guia para o iniciante da linguagem | Ebook/Impresso | :moneybag: | Português
+
 
 [Ir para o índice](#Índice)
 
@@ -54,7 +57,8 @@ Desbravando Java e Orientação a Objetos | Um guia para o iniciante da linguage
 Blog | Principal(is) Autor(es) | Idioma
 :-- | :-- | :--:
 
-
+[Aprenda java fácil](http://www.aprendajavafacil.com.br/portal/) | Desconhecido | Português
+[JavaWorld](https://www.javaworld.com/) | IDG Communication | Inglês
 [Ir para o índice](#Índice)
 
 ## :video_camera: Palestras (vídeos)
