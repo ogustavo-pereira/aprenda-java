@@ -56,7 +56,6 @@ Desbravando Java e Orientação a Objetos | Um guia para o iniciante da linguage
 
 Blog | Principal(is) Autor(es) | Idioma
 :-- | :-- | :--:
-
 [Aprenda java fácil](http://www.aprendajavafacil.com.br/portal/) | Desconhecido | Português
 [JavaWorld](https://www.javaworld.com/) | IDG Communication | Inglês
 [Ir para o índice](#Índice)
