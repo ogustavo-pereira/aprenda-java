@@ -37,6 +37,7 @@ Curso | Escola/Site | Nível | Assunto | Pago/Gratuito
 [Formação em Java](https://www.alura.com.br/formacao-java) | Alura | :large_orange_diamond: | Programe sistemas Web com Spring MVC, JPA e Java | :moneybag:
 [Primeiros passos com Java](https://www.devmedia.com.br/primeiros-passos-java/) | Devmedia | :green_heart: | Primeiros passos no Java.Spring MVC e JPA | :moneybag:
 [Curso de Java Algoritmos](http://www.cursou.com.br/informatica/java-algoritmos/) | Cursou | :green_heart: | Algoritimos em Java | :free:
+[Java COMPLETO 2019 Programação Orientada a Objetos +Projetos](https://www.udemy.com/java-curso-completo/) | Educandoweb | :large_orange_diamond: | Programação Orientada a Objetos | :moneybag:
 
 [Ir para o índice](#Índice)
 
@@ -91,6 +92,8 @@ Nome da Comunidade | Tipo | Idioma
 :-- | :-- | :--
 [Java MG](https://www.meetup.com/pt-BR/Java-MG/) | Meetup | Português
 [Sou Java Campinas](https://www.meetup.com/pt-BR/SouJavaCampinas/) | Meetup | Português
+[Java Dev BR](https://javadevbr.herokuapp.com/) | Slack | Português
+
 
 
 
