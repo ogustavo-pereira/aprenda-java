@@ -58,6 +58,7 @@ Blog | Principal(is) Autor(es) | Idioma
 :-- | :-- | :--:
 [Aprenda java fácil](http://www.aprendajavafacil.com.br/portal/) | Desconhecido | Português
 [JavaWorld](https://www.javaworld.com/) | IDG Communication | Inglês
+
 [Ir para o índice](#Índice)
 
 ## :video_camera: Palestras (vídeos)
@@ -88,6 +89,9 @@ Nome do Evento | Região Realizada
 
 Nome da Comunidade | Tipo | Idioma
 :-- | :-- | :--
+[Java MG](https://www.meetup.com/pt-BR/Java-MG/) | Meetup | Português
+[Sou Java Campinas](https://www.meetup.com/pt-BR/SouJavaCampinas/) | Meetup | Português
+
 
 
 [Ir para o índice](#Índice)
@@ -106,9 +110,6 @@ Nome do Podcast | Idioma
 
 [Ir para o índice](#Índice)
 
-
-
-[Ir para o índice](#Índice)
 
 <h6 align="center">
 	<a href="./MIT.md">MIT</a>
