@@ -83,7 +83,7 @@ Título | Assunto | Idioma
 
 Nome do Evento | Região Realizada
 :-- | :--
-
+[The Developer’s Conference TDC](http://www.thedevelopersconference.com.br/tdc/2019/index.html) | Florianopolis/São Paulo/ Belo Horizonte/Recife/Porto Alegre
 
 [Ir para o índice](#Índice)
 
