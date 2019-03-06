@@ -67,7 +67,9 @@ Blog | Principal(is) Autor(es) | Idioma
 
 Título | Evento | Assuntos
 :-- | :-- | :--
-
+[Desenvolvedor Java do futuro](https://www.youtube.com/watch?v=G6c2PFSxHDE) | Campus Party | Carreira Java
+[Tudo sobre Java 8 ](https://www.youtube.com/watch?v=UZaKFZHrnag) | Conexão Java | Java 8
+[DevOps e Ecosistema Java](https://www.youtube.com/watch?v=2Gmiqssml8I) | Conexão Java | Devops
 
 [Ir para o índice](#Índice)
 
