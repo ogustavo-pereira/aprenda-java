@@ -94,7 +94,7 @@ Nome do Evento | Região Realizada
 Nome da Comunidade | Tipo | Idioma
 :-- | :-- | :--
 [Java MG](https://www.meetup.com/pt-BR/Java-MG/) | Meetup | Português
-[Sou Java Campinas](https://www.meetup.com/pt-BR/SouJavaCampinas/) | Meetup | Português
+[SouJava Campinas JUG](https://www.meetup.com/pt-BR/SouJavaCampinas/) | Meetup | Português
 [Java Dev BR](https://javadevbr.herokuapp.com/) | Slack | Português
 
 
