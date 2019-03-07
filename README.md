@@ -57,9 +57,11 @@ Java Compo Programar - Deitel | Java do Básico ao avançado |Impresso | :moneyb
 
 Blog | Principal(is) Autor(es) | Idioma
 :-- | :-- | :--:
-[Sou Java](https://soujava.org.br/) | Sociedade de Usuários de Java | Português
+
 [Aprenda java fácil](http://www.aprendajavafacil.com.br/portal/) | Desconhecido | Português
+[Grupo de Usuários Java da Bahia](http://javabahia.blogspot.com/) | Membros do Java Bahia | Português
 [JavaWorld](https://www.javaworld.com/) | IDG Communication | Inglês
+[Sou Java](https://soujava.org.br/) | Sociedade de Usuários de Java | Português
 
 [Ir para o índice](#Índice)
 
@@ -85,7 +87,10 @@ Título | Assunto | Idioma
 
 Nome do Evento | Região Realizada
 :-- | :--
+[GUOB Tech Day](http://www.guob.com.br/index.php?page=agenda) | São Paulo/ Porto Alegre
+[JUG Tour Brasil - Campo Grande ](https://doity.com.br/jug-tour-brasil-2015-cgr#about)
 [The Developer’s Conference TDC](http://www.thedevelopersconference.com.br/tdc/2019/index.html) | Florianopolis/São Paulo/ Belo Horizonte/Recife/Porto Alegre
+
 
 [Ir para o índice](#Índice)
 
@@ -93,9 +98,16 @@ Nome do Evento | Região Realizada
 
 Nome da Comunidade | Tipo | Idioma
 :-- | :-- | :--
-[Java MG](https://www.meetup.com/pt-BR/Java-MG/) | Meetup | Português
-[SouJava Campinas JUG](https://www.meetup.com/pt-BR/SouJavaCampinas/) | Meetup | Português
+[Brasilia Java Users Group – DFJUG](http://www.dfjug.org/o-grupo/o-dfjug/) | Site | Português
+[Grupo de Usuário de Tecnologia Oracle - GUOB](http://www.guob.com.br/) | Site | Português
+[Grupo de Usuários Java de Santa Catarina - GUJavaSC](http://gujavasc.org/) | Site | Português
 [Java Dev BR](https://javadevbr.herokuapp.com/) | Slack | Português
+[Java MG](https://www.meetup.com/pt-BR/Java-MG/) | Meetup | Português
+[Java Nordeste](http://javanoroeste.com.br/javanoroeste/) | Site | Português
+[SouJava](https://github.com/soujava) | Github | Português
+[SouJava Campinas JUG](https://www.meetup.com/pt-BR/SouJavaCampinas/) | Meetup | Português
+[Virtual JUG](http://virtualjug.com) | Site | Inglês
+
 
 
 
