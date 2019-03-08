@@ -123,7 +123,8 @@ Nome do Feed | Idioma
 ## :sound: Podcasts
 Nome do Podcast | Idioma
 :-- | :--:
-
+[Java - Lambda3](https://www.lambda3.com.br/2018/06/lambda3-podcast-98-java/) | Português
+[E o futuro do Java! – Hipsters](https://hipsters.tech/e-o-futuro-do-java-hipsters-27/) | Português
 
 [Ir para o índice](#Índice)
 
