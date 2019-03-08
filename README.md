@@ -57,7 +57,6 @@ Java Compo Programar - Deitel | Java do Básico ao avançado |Impresso | :moneyb
 
 Blog | Principal(is) Autor(es) | Idioma
 :-- | :-- | :--:
-
 [Aprenda java fácil](http://www.aprendajavafacil.com.br/portal/) | Desconhecido | Português
 [Grupo de Usuários Java da Bahia](http://javabahia.blogspot.com/) | Membros do Java Bahia | Português
 [JavaWorld](https://www.javaworld.com/) | IDG Communication | Inglês
@@ -88,7 +87,7 @@ Título | Assunto | Idioma
 Nome do Evento | Região Realizada
 :-- | :--
 [GUOB Tech Day](http://www.guob.com.br/index.php?page=agenda) | São Paulo/ Porto Alegre
-[JUG Tour Brasil - Campo Grande ](https://doity.com.br/jug-tour-brasil-2015-cgr#about)
+[JUG Tour Brasil - Campo Grande ](https://doity.com.br/jug-tour-brasil-2015-cgr#about) | Campo Grande
 [The Developer’s Conference TDC](http://www.thedevelopersconference.com.br/tdc/2019/index.html) | Florianopolis/São Paulo/ Belo Horizonte/Recife/Porto Alegre
 
 
