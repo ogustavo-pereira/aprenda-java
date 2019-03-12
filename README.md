@@ -30,14 +30,15 @@
 
 Curso | Escola/Site | Nível | Assunto | Pago/Gratuito
 :-- | :-- | :--: | :--: | :--:
-[Java Básico](https://loiane.training/curso/java-basico) | Loiane.training | :green_heart: | Começando com Java | :free:
-[Java Intermediário](https://loiane.training/curso/java-intermediario) | Loiane.training | :large_orange_diamond: | Curso Intermediário | :free:
-[Java Básico](https://www.cursoemvideo.com/course/curso-java-iniciante/) | Curso em Vídeo | :green_heart: | Como criar aplicativos que utilizem Java para rodar em Desktop | :free:
+[Curso de Java Algoritmos](http://www.cursou.com.br/informatica/java-algoritmos/) | Cursou | :green_heart: | Algoritimos em Java | :free:
 [Curso de POO Java](https://www.cursoemvideo.com/course/curso-de-poo-java/) | Curso em Vídeo | :large_orange_diamond: | Programação Orientada a Objetos | :free:
 [Formação em Java](https://www.alura.com.br/formacao-java) | Alura | :large_orange_diamond: | Programe sistemas Web com Spring MVC, JPA e Java | :moneybag:
-[Primeiros passos com Java](https://www.devmedia.com.br/primeiros-passos-java/) | Devmedia | :green_heart: | Primeiros passos no Java.Spring MVC e JPA | :moneybag:
-[Curso de Java Algoritmos](http://www.cursou.com.br/informatica/java-algoritmos/) | Cursou | :green_heart: | Algoritimos em Java | :free:
+[Java Básico](https://loiane.training/curso/java-basico) | Loiane.training | :green_heart: | Começando com Java | :free:
+[Java Básico](https://www.cursoemvideo.com/course/curso-java-iniciante/) | Curso em Vídeo | :green_heart: | Como criar aplicativos que utilizem Java para rodar em Desktop | :free:
 [Java COMPLETO 2019 Programação Orientada a Objetos +Projetos](https://www.udemy.com/java-curso-completo/) | Educandoweb | :large_orange_diamond: | Programação Orientada a Objetos | :moneybag:
+[Java Intermediário](https://loiane.training/curso/java-intermediario) | Loiane.training | :large_orange_diamond: | Curso Intermediário | :free:
+[Primeiros passos com Java](https://www.devmedia.com.br/primeiros-passos-java/) | Devmedia | :green_heart: | Primeiros passos no Java.Spring MVC e JPA | :moneybag:
+
 
 [Ir para o índice](#Índice)
 
@@ -46,10 +47,13 @@ Curso | Escola/Site | Nível | Assunto | Pago/Gratuito
 Título | Assunto | Formato | Pago/Gratuito | Idioma
 :-- | :--: | :--: | :--: | :--:
 [Apostila do Curso FJ-11 Java e Orientação a Objetos](https://www.caelum.com.br/apostila-java-orientacao-objetos/) | Programação orientada a Objeto | Web | :free: | Português
-[Projeto de Algoritimos com Implementações em Java e C++ - Nivio Ziviane](http://www2.dcc.ufmg.br/livros/algoritmos-java/) | Programação orientada a Objeto | Impresso | :moneybag: | Português
-[Explorando APIs e bibliotecas Java - Rodrigo Turini](https://www.casadocodigo.com.br/products/livro-apis-java) | JDBC, IO, Threads, JavaFX e mais | Ebook/Impresso | :moneybag: | Português
 [Desbravando Java e Orientação a Objetos - Rodrigo Turini](https://www.casadocodigo.com.br/products/livro-orientacao-objetos-java) | Um guia para o iniciante da linguagem | Ebook/Impresso | :moneybag: | Português
+[Explorando APIs e bibliotecas Java - Rodrigo Turini](https://www.casadocodigo.com.br/products/livro-apis-java) | JDBC, IO, Threads, JavaFX e mais | Ebook/Impresso | :moneybag: | Português
 Java Compo Programar - Deitel | Java do Básico ao avançado |Impresso | :moneybag: | Português
+[Projeto de Algoritimos com Implementações em Java e C++ - Nivio Ziviane](http://www2.dcc.ufmg.br/livros/algoritmos-java/) | Programação orientada a Objeto | Impresso | :moneybag: | Português
+
+
+
 
 [Ir para o índice](#Índice)
 
@@ -68,9 +72,10 @@ Blog | Principal(is) Autor(es) | Idioma
 
 Título | Evento | Assuntos
 :-- | :-- | :--
+[DevOps e Ecosistema Java](https://www.youtube.com/watch?v=2Gmiqssml8I) | Conexão Java | Devops
 [Desenvolvedor Java do futuro](https://www.youtube.com/watch?v=G6c2PFSxHDE) | Campus Party | Carreira Java
 [Tudo sobre Java 8 ](https://www.youtube.com/watch?v=UZaKFZHrnag) | Conexão Java | Java 8
-[DevOps e Ecosistema Java](https://www.youtube.com/watch?v=2Gmiqssml8I) | Conexão Java | Devops
+
 
 [Ir para o índice](#Índice)
 
@@ -123,8 +128,9 @@ Nome do Feed | Idioma
 ## :sound: Podcasts
 Nome do Podcast | Idioma
 :-- | :--:
-[Java - Lambda3](https://www.lambda3.com.br/2018/06/lambda3-podcast-98-java/) | Português
 [E o futuro do Java! – Hipsters](https://hipsters.tech/e-o-futuro-do-java-hipsters-27/) | Português
+[Java - Lambda3](https://www.lambda3.com.br/2018/06/lambda3-podcast-98-java/) | Português
+
 
 [Ir para o índice](#Índice)
 
