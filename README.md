@@ -32,8 +32,7 @@ Curso | Escola/Site | Nível | Assunto | Pago/Gratuito
 :-- | :-- | :--: | :--: | :--:
 [Curso de Android](http://excript.com/curso-de-android.html) | excript | :large_orange_diamond: | Android | :free:
 [Curso de Java](http://excript.com/curso-de-java.html) | excript | :green_heart: | Básico de Java | :free:
-[Curso de Java](http://www.bosontreinamentos.com.br/category/java/) | 
-Bóson Treinamentos | :green_heart: | Básico de Java | :free:
+[Curso de Java](http://www.bosontreinamentos.com.br/category/java/) | Bóson Treinamentos | :green_heart: | Básico de Java | :free:
 [Curso de Java Algoritmos](http://www.cursou.com.br/informatica/java-algoritmos/) | Cursou | :green_heart: | Algoritimos em Java | :free:
 [Curso de POO Java](https://www.cursoemvideo.com/course/curso-de-poo-java/) | Curso em Vídeo | :large_orange_diamond: | Programação Orientada a Objetos | :free:
 [Curso de Java Orientado a Objetos](http://excript.com/curso-java-orientado-a-objetos.html) | excript | :large_orange_diamond: | Programação Orientada a Objetos | :free:
