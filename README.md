@@ -30,15 +30,20 @@
 
 Curso | Escola/Site | Nível | Assunto | Pago/Gratuito
 :-- | :-- | :--: | :--: | :--:
+[Curso de Android](http://excript.com/curso-de-android.html) | excript | :large_orange_diamond: | Android | :free:
 [Curso de Java](http://excript.com/curso-de-java.html) | excript | :green_heart: | Básico de Java | :free:
 [Curso de Java Algoritmos](http://www.cursou.com.br/informatica/java-algoritmos/) | Cursou | :green_heart: | Algoritimos em Java | :free:
 [Curso de POO Java](https://www.cursoemvideo.com/course/curso-de-poo-java/) | Curso em Vídeo | :large_orange_diamond: | Programação Orientada a Objetos | :free:
+[Curso de Java Orientado a Objetos](http://excript.com/curso-java-orientado-a-objetos.html) | excript | :large_orange_diamond: | Programação Orientada a Objetos | :free:
 [Desenvolvimento Android - Aprenda a criar 15 apps](https://www.udemy.com/curso-completo-do-desenvolvedor-android/) | udemy/Jamilton Damasceno, Jorge Sant Ana | :large_orange_diamond: | Android | :moneybag:
+[Exercícios Resolvidos em Java](http://excript.com/exercicios-resolvidos-de-java.html) | excript | :green_heart: | Algoritimos em Java | :free:
 [Formação em Java](https://www.alura.com.br/formacao-java) | Alura | :large_orange_diamond: | Programe sistemas Web com Spring MVC, JPA e Java | :moneybag:
+[Java 8 - Lambda](http://excript.com/java8-lambda.html) | excript | :red_circle: | versão 8 do Java | :free:
 [Java Básico](https://loiane.training/curso/java-basico) | Loiane.training | :green_heart: | Começando com Java | :free:
 [Java Básico](https://www.cursoemvideo.com/course/curso-java-iniciante/) | Curso em Vídeo | :green_heart: | Como criar aplicativos que utilizem Java para rodar em Desktop | :free:
 [Java COMPLETO 2019 Programação Orientada a Objetos +Projetos](https://www.udemy.com/java-curso-completo/) | Educandoweb | :large_orange_diamond: | Programação Orientada a Objetos | :moneybag:
 [Java Intermediário](https://loiane.training/curso/java-intermediario) | Loiane.training | :large_orange_diamond: | Curso Intermediário | :free:
+[Jogo da Velha com Java para Android](http://excript.com/android-jogo-da-velha.html) | excript | :red_circle: | Android | :free:
 [Primeiros passos com Java](https://www.devmedia.com.br/primeiros-passos-java/) | Devmedia | :green_heart: | Primeiros passos no Java.Spring MVC e JPA | :moneybag:
 
 
