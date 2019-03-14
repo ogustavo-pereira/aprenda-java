@@ -36,6 +36,7 @@ Curso | Escola/Site | Nível | Assunto | Pago/Gratuito
 [Curso de POO Java](https://www.cursoemvideo.com/course/curso-de-poo-java/) | Curso em Vídeo | :large_orange_diamond: | Programação Orientada a Objetos | :free:
 [Curso de Java Orientado a Objetos](http://excript.com/curso-java-orientado-a-objetos.html) | excript | :large_orange_diamond: | Programação Orientada a Objetos | :free:
 [Desenvolvimento Android - Aprenda a criar 15 apps](https://www.udemy.com/curso-completo-do-desenvolvedor-android/) | udemy/Jamilton Damasceno, Jorge Sant Ana | :large_orange_diamond: | Android | :moneybag:
+[Estrutura de Dados com Java](https://loiane.training/curso/estrutura-de-dados) | Loiane.training | :large_orange_diamond: | Estrutura de Dados | :free:
 [Exercícios Resolvidos em Java](http://excript.com/exercicios-resolvidos-de-java.html) | excript | :green_heart: | Algoritimos em Java | :free:
 [Formação em Java](https://www.alura.com.br/formacao-java) | Alura | :large_orange_diamond: | Programe sistemas Web com Spring MVC, JPA e Java | :moneybag:
 [Java 8 - Lambda](http://excript.com/java8-lambda.html) | excript | :red_circle: | versão 8 do Java | :free:
