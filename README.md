@@ -58,7 +58,7 @@ Título | Assunto | Formato | Pago/Gratuito | Idioma
 [Apostila do Curso FJ-11 Java e Orientação a Objetos](https://www.caelum.com.br/apostila-java-orientacao-objetos/) | Programação orientada a Objeto | Web | :free: | Português
 [Desbravando Java e Orientação a Objetos - Rodrigo Turini](https://www.casadocodigo.com.br/products/livro-orientacao-objetos-java) | Um guia para o iniciante da linguagem | Ebook/Impresso | :moneybag: | Português
 [Explorando APIs e bibliotecas Java - Rodrigo Turini](https://www.casadocodigo.com.br/products/livro-apis-java) | JDBC, IO, Threads, JavaFX e mais | Ebook/Impresso | :moneybag: | Português
-Java Compo Programar - Deitel | Java do Básico ao avançado |Impresso | :moneybag: | Português
+Java Como Programar - Deitel | Java do Básico ao avançado |Impresso | :moneybag: | Português
 [Projeto de Algoritimos com Implementações em Java e C++ - Nivio Ziviane](http://www2.dcc.ufmg.br/livros/algoritmos-java/) | Programação orientada a Objeto | Impresso | :moneybag: | Português
 
 
