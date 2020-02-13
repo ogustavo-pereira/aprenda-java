@@ -120,8 +120,8 @@ Nome da Comunidade | Tipo | Idioma
 [SouJava](https://github.com/soujava) | Github | Português
 [SouJava Campinas JUG](https://www.meetup.com/pt-BR/SouJavaCampinas/) | Meetup | Português
 [Virtual JUG](http://virtualjug.com) | Site | Inglês
-
-
+[DevCodeBr Android/Java](https://t.me/devcodebr_android) | Telegram | Português
+[JAVA PT](https://t.me/javaofficial_pt) | Telegram | Português
 
 
 
