@@ -1,5 +1,5 @@
 <p align="center">
-	<img src="https://raw.githubusercontent.com/learnbr/java/master/logo.png" alt="Aprenda Java" style="max-width:50%;">
+	<img src="https://raw.githubusercontent.com/learnbr/java/master/logo.png" alt="Aprenda Java" width="350px">
 </p>
 
 <h1 align="center">Aprenda Java</h1>
@@ -13,10 +13,8 @@
 	<a href="#book-livros">Livros</a> •
 	<a href="#newspaper-blogs">Blogs</a> •
 	<a href="#video_camera-palestras-v%C3%ADdeos">Palestras</a> •
-	<a href="#computer-screencasts">Screencasts</a> •
-	<a href="#eventos-ativos">Eventos ativos</a> •
+	<a href="#circus_tent-eventos-ativos">Eventos ativos</a> •
 	<a href="#speech_balloon-comunidades">Comunidades</a> •
-	<a href="#paperclip-feeds">Feeds</a> •
 	<a href="#sound-podcasts">Podcasts</a> •
 </p>
 
@@ -62,8 +60,6 @@ Java Como Programar - Deitel | Java do Básico ao avançado |Impresso | :moneyba
 [Projeto de Algoritimos com Implementações em Java e C++ - Nivio Ziviane](http://www2.dcc.ufmg.br/livros/algoritmos-java/) | Programação orientada a Objeto | Impresso | :moneybag: | Português
 
 
-
-
 [Ir para o índice](#Índice)
 
 ## :newspaper: Blogs
@@ -84,13 +80,6 @@ Título | Evento | Assuntos
 [DevOps e Ecosistema Java](https://www.youtube.com/watch?v=2Gmiqssml8I) | Conexão Java | Devops
 [Desenvolvedor Java do futuro](https://www.youtube.com/watch?v=G6c2PFSxHDE) | Campus Party | Carreira Java
 [Tudo sobre Java 8 ](https://www.youtube.com/watch?v=UZaKFZHrnag) | Conexão Java | Java 8
-
-
-[Ir para o índice](#Índice)
-
-## :computer: Screencasts
-Título | Assunto | Idioma
-:-- | :-- | :--
 
 
 [Ir para o índice](#Índice)
