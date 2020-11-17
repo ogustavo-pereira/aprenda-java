@@ -123,15 +123,6 @@ Nome da Comunidade | Tipo | Idioma
 [DevCodeBr Android/Java](https://t.me/devcodebr_android) | Telegram | Português
 [JAVA PT](https://t.me/javaofficial_pt) | Telegram | Português
 
-
-
-[Ir para o índice](#Índice)
-
-## :paperclip: Feeds
-Nome do Feed | Idioma
-:-- | :--:
-
-
 [Ir para o índice](#Índice)
 
 ## :sound: Podcasts
@@ -142,14 +133,6 @@ Nome do Podcast | Idioma
 
 
 [Ir para o índice](#Índice)
-
-## Team
-
-This theme is maintained by the following person(s) and a bunch of [awesome contributors](https://github.com/learnbr/java/graphs/contributors).
-
-[![oguhpereira](https://avatars3.githubusercontent.com/u/24482087?s=70&v=3)](https://github.com/oguhpereira) | [![CesarNog](https://avatars1.githubusercontent.com/u/754924?s=70&v=4)](https://github.com/CesarNog)
---- | ---
-[Gustavo Pereira](https://github.com/oguhpereira) | [Cesar Augusto](https://github.com/CesarNog)
 
 
 <h6 align="center">
