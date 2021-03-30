@@ -115,6 +115,7 @@ Nome da Comunidade | Tipo | Idioma
 [Ir para o índice](#Índice)
 
 ## :sound: Podcasts
+
 Nome do Podcast | Idioma
 :-- | :--:
 [E o futuro do Java! – Hipsters](https://hipsters.tech/e-o-futuro-do-java-hipsters-27/) | Português
