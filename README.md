@@ -4,7 +4,7 @@
 
 <h1 align="center">Aprenda Java</h1>
 
-<p align="center">Central de conhecimento sobre Java.</p>
+<p align="center">Agrupamento de links's sobre Java.</p>
 
 
 <a id="user-content-Índice" class="anchor" href="#Índice" aria-hidden="true"></a>
@@ -15,36 +15,30 @@
 	<a href="#video_camera-palestras-v%C3%ADdeos">Palestras</a> •
 	<a href="#circus_tent-eventos-ativos">Eventos ativos</a> •
 	<a href="#speech_balloon-comunidades">Comunidades</a> •
-	<a href="#sound-podcasts">Podcasts</a> •
+	<a href="#sound-podcasts">Podcasts</a>
 </p>
 
 ## :mortar_board: Cursos
 
-**Legenda:**
-
-- :green_heart:: Básico
-- :large_orange_diamond:: Intermediário
-- :red_circle:: Avançado
-
 Curso | Escola/Site | Nível | Assunto | Pago/Gratuito
 :-- | :-- | :--: | :--: | :--:
-[Curso de Android](http://excript.com/curso-de-android.html) | excript | :large_orange_diamond: | Android | :free:
-[Curso de Java](http://excript.com/curso-de-java.html) | excript | :green_heart: | Básico de Java | :free:
-[Curso de Java](http://www.bosontreinamentos.com.br/category/java/) | Bóson Treinamentos | :green_heart: | Básico de Java | :free:
-[Curso de Java Algoritmos](http://www.cursou.com.br/informatica/java-algoritmos/) | Cursou | :green_heart: | Algoritimos em Java | :free:
-[Curso de POO Java](https://www.cursoemvideo.com/course/curso-de-poo-java/) | Curso em Vídeo | :large_orange_diamond: | Programação Orientada a Objetos | :free:
-[Curso de Java Orientado a Objetos](http://excript.com/curso-java-orientado-a-objetos.html) | excript | :large_orange_diamond: | Programação Orientada a Objetos | :free:
-[Desenvolvimento Android - Aprenda a criar 15 apps](https://www.udemy.com/curso-completo-do-desenvolvedor-android/) | udemy/Jamilton Damasceno, Jorge Sant Ana | :large_orange_diamond: | Android | :moneybag:
-[Estrutura de Dados com Java](https://loiane.training/curso/estrutura-de-dados) | Loiane.training | :large_orange_diamond: | Estrutura de Dados | :free:
-[Exercícios Resolvidos em Java](http://excript.com/exercicios-resolvidos-de-java.html) | excript | :green_heart: | Algoritimos em Java | :free:
-[Formação em Java](https://www.alura.com.br/formacao-java) | Alura | :large_orange_diamond: | Programe sistemas Web com Spring MVC, JPA e Java | :moneybag:
-[Java 8 - Lambda](http://excript.com/java8-lambda.html) | excript | :red_circle: | versão 8 do Java | :free:
-[Java Básico](https://loiane.training/curso/java-basico) | Loiane.training | :green_heart: | Começando com Java | :free:
-[Java Básico](https://www.cursoemvideo.com/course/curso-java-iniciante/) | Curso em Vídeo | :green_heart: | Como criar aplicativos que utilizem Java para rodar em Desktop | :free:
-[Java COMPLETO 2019 Programação Orientada a Objetos +Projetos](https://www.udemy.com/java-curso-completo/) | Educandoweb | :large_orange_diamond: | Programação Orientada a Objetos | :moneybag:
-[Java Intermediário](https://loiane.training/curso/java-intermediario) | Loiane.training | :large_orange_diamond: | Curso Intermediário | :free:
-[Jogo da Velha com Java para Android](http://excript.com/android-jogo-da-velha.html) | excript | :red_circle: | Android | :free:
-[Primeiros passos com Java](https://www.devmedia.com.br/primeiros-passos-java/) | Devmedia | :green_heart: | Primeiros passos no Java.Spring MVC e JPA | :moneybag:
+[Curso de Android](http://excript.com/curso-de-android.html) | excript | Intermediário | Android | Gratuito
+[Curso de Java](http://excript.com/curso-de-java.html) | excript | Básico | Básico de Java | Gratuito
+[Curso de Java](http://www.bosontreinamentos.com.br/category/java/) | Bóson Treinamentos | Básico | Básico de Java | Gratuito
+[Curso de Java Algoritmos](http://www.cursou.com.br/informatica/java-algoritmos/) | Cursou | Básico | Algorítimos em Java | Gratuito
+[Curso de POO Java](https://www.cursoemvideo.com/course/curso-de-poo-java/) | Curso em Vídeo | Intermediário | Programação Orientada a Objetos | Gratuito
+[Curso de Java Orientado a Objetos](http://excript.com/curso-java-orientado-a-objetos.html) | excript | Intermediário | Programação Orientada a Objetos | Gratuito
+[Estrutura de Dados com Java](https://loiane.training/curso/estrutura-de-dados) | Loiane.training | Intermediário | Estrutura de Dados | Gratuito
+[Exercícios Resolvidos em Java](http://excript.com/exercicios-resolvidos-de-java.html) | excript | Básico | Algorítimos em Java | Gratuito
+[Java 8 - Lambda](http://excript.com/java8-lambda.html) | excript | Avançado | versão 8 do Java | Gratuito
+[Java Básico](https://loiane.training/curso/java-basico) | Loiane.training | Básico | Começando com Java | Gratuito
+[Java Intermediário](https://loiane.training/curso/java-intermediario) | Loiane.training | Intermediário | Curso Intermediário | Gratuito
+[Jogo da Velha com Java para Android](http://excript.com/android-jogo-da-velha.html) | excript | Avançado | Android | Gratuito
+[Java Básico](https://www.cursoemvideo.com/course/curso-java-iniciante/) | Curso em Vídeo | Básico | Como criar aplicativos que utilizem Java para rodar em Desktop | Gratuito
+[Desenvolvimento Android - Aprenda a criar 15 apps](https://www.udemy.com/curso-completo-do-desenvolvedor-android/) | udemy/Jamilton Damasceno, Jorge Sant Ana | Intermediário | Android | Pago
+[Formação em Java](https://www.alura.com.br/formacao-java) | Alura | Intermediário | Programe sistemas Web com Spring MVC, JPA e Java | Pago
+[Java COMPLETO 2019 Programação Orientada a Objetos +Projetos](https://www.udemy.com/java-curso-completo/) | Educandoweb | Intermediário | Programação Orientada a Objetos | Pago
+[Primeiros passos com Java](https://www.devmedia.com.br/primeiros-passos-java/) | Devmedia | Básico | Primeiros passos no Java.Spring MVC e JPA | Pago
 
 
 [Ir para o índice](#Índice)
@@ -53,11 +47,11 @@ Curso | Escola/Site | Nível | Assunto | Pago/Gratuito
 
 Título | Assunto | Formato | Pago/Gratuito | Idioma
 :-- | :--: | :--: | :--: | :--:
-[Apostila do Curso FJ-11 Java e Orientação a Objetos](https://www.caelum.com.br/apostila-java-orientacao-objetos/) | Programação orientada a Objeto | Web | :free: | Português
-[Desbravando Java e Orientação a Objetos - Rodrigo Turini](https://www.casadocodigo.com.br/products/livro-orientacao-objetos-java) | Um guia para o iniciante da linguagem | Ebook/Impresso | :moneybag: | Português
-[Explorando APIs e bibliotecas Java - Rodrigo Turini](https://www.casadocodigo.com.br/products/livro-apis-java) | JDBC, IO, Threads, JavaFX e mais | Ebook/Impresso | :moneybag: | Português
-Java Como Programar - Deitel | Java do Básico ao avançado |Impresso | :moneybag: | Português
-[Projeto de Algoritimos com Implementações em Java e C++ - Nivio Ziviane](http://www2.dcc.ufmg.br/livros/algoritmos-java/) | Programação orientada a Objeto | Impresso | :moneybag: | Português
+[Apostila do Curso FJ-11 Java e Orientação a Objetos](https://www.caelum.com.br/apostila-java-orientacao-objetos/) | Programação orientada a Objeto | Web | Gratuito | Português
+[Desbravando Java e Orientação a Objetos - Rodrigo Turini](https://www.casadocodigo.com.br/products/livro-orientacao-objetos-java) | Um guia para o iniciante da linguagem | Ebook/Impresso | Pago | Português
+[Explorando APIs e bibliotecas Java - Rodrigo Turini](https://www.casadocodigo.com.br/products/livro-apis-java) | JDBC, IO, Threads, JavaFX e mais | Ebook/Impresso | Pago | Português
+Java Como Programar - Deitel | Java do Básico ao avançado |Impresso | Pago | Português
+[Projeto de Algorítimos com Implementações em Java e C++ - Nivio Ziviane](http://www2.dcc.ufmg.br/livros/algoritmos-java/) | Programação orientada a Objeto | Impresso | Pago | Português
 
 
 [Ir para o índice](#Índice)
@@ -123,6 +117,12 @@ Nome do Podcast | Idioma
 
 
 [Ir para o índice](#Índice)
+
+## Mais sobre
+
+- [Dev Java](https://dev.java/) 
+- [Docs Oracle](https://docs.oracle.com/en/java/)
+- [Awesome Java](https://github.com/akullpp/awesome-java)
 
 
 <h6 align="center">
